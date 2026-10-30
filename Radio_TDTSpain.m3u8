@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-id="nrj-dance" tvg-name="NRJ Dance" group-title="Radio;Dance",NRJ Dance
 #EXTV-index: 1
 #EXTV-radio: "true"
-https://streaming.nrjaudio.fm/ouou7nfibkyn?origine=fluxradios&aw_0_1st.station=NRJ-Dance
+https://streaming.nrjaudio.fm/ouou7nfibkyn?aw_0_1st.station=NRJ-Dance
 
 #EXTINF:-1 tvg-id="nrj-new-hits-friday" tvg-name="NRJ New Hits Friday" group-title="Radio;Novedades",NRJ New Hits Friday
 #EXTV-index: 2
 #EXTV-radio: "true"
-https://streaming.nrjaudio.fm/ousgaom4z85f?origine=fluxradios&aw_0_1st.station=NRJ-New-Hits-Friday
+https://streaming.nrjaudio.fm/ousgaom4z85f?aw_0_1st.station=NRJ-New-Hits-Friday
 
 #EXTINF:-1 tvg-id="nrj-pop" tvg-name="NRJ Pop" group-title="Radio;Pop",NRJ Pop
 #EXTV-index: 3
 #EXTV-radio: "true"
-https://streaming.nrjaudio.fm/ouwg2ask6j4d?origine=fluxradios&aw_0_1st.station=NRJ-Pop
+https://streaming.nrjaudio.fm/ouwg2ask6j4d?aw_0_1st.station=NRJ-Pop
