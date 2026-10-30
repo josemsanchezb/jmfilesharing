@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="canalred" tvg-name="Canal RED" group-title="Nacionales",Canal RED
-#EXTV-streamtype: "geturl"
+#EXTV-index: 1
+#EXTV-streamtype: "youtube"
 https://www.youtube.com/@CanalRedLive/live
