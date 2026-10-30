@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="europafm-elche" tvg-name="Europa FM Elche Vega Baja" group-title="Radio;España",Europa FM Elche Vega Baja
+#EXTV-index: 1
+#EXTV-radio: "true"
+https://radio-atres-live.ondacero.es/api/livestream-redirect/EFM_ELCHEAAC.m3u8
+
+#EXTINF:-1 tvg-id="nrj-dance" tvg-name="NRJ Dance" group-title="Radio;Dance",NRJ Dance
+#EXTV-index: 2
+#EXTV-radio: "true"
+https://streaming.nrjaudio.fm/ouou7nfibkyn?origine=fluxradios&aw_0_1st.station=NRJ-Dance
+
+#EXTINF:-1 tvg-id="nrj-new-hits-friday" tvg-name="NRJ New Hits Friday" group-title="Radio;Novedades",NRJ New Hits Friday
+#EXTV-index: 3
+#EXTV-radio: "true"
+https://streaming.nrjaudio.fm/ousgaom4z85f?origine=fluxradios&aw_0_1st.station=NRJ-New-Hits-Friday
